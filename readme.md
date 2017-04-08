@@ -15,7 +15,7 @@ log.info({ maple: true, butter: true }, 'Here comes the syrup.');
 - npm run test-watch
 
 # History
-- v0.0.1 Initial release. Moved from main Northwoods project.
+- v0.0.4 Initial release. Moved from main Northwoods project.
 
 # Legal & License
 Copyright 2017 Adam Mill
