@@ -1,4 +1,5 @@
 # Northwoods-ConsoleFormatted: A Formatted Console Stream for Northwoods.
+See https://github.com/theroyalwhee0/northwoods
 
 # Installation
 npm --save install @theroyalwhee0/northwoods-consoleformatted
